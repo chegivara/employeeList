@@ -1,0 +1,14 @@
+#mainPanel{
+	padding: 10px
+}
+button img{
+	vertical-align:middle; width:20px;
+	height: 20px;
+}
+button span{
+	padding:3px; vertical-align:middle;
+}
+tr:nth-child\(even\) td,
+tr:nth-child\(even\) th {
+	background-color: #DFF0D8;
+}
